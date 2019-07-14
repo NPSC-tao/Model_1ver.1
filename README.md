@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* version
+ruby 2.6
+細かくはpackage.json見てください笑
 
 * System dependencies
 
